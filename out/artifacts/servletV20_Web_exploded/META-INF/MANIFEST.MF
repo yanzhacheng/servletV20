@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: 24304
+Created-By: IntelliJ IDEA
+Build-Jdk: 12
+
